@@ -7,3 +7,14 @@ a) In a non-Agile project, who is the equivalent to the Project Owner? Explain t
 b) Explain the role and responsibilities of the Scrum Master vs the Product Owner.
     - The Scrum Master handles most of the in-team discussions, setting up meetings, facilitating changes, managing JIRA, daily stand-ups, etc.
     - The Product Owner on the other hand isn’t as involved with the in-team functions. They are the bridge between the team and those higher up so they need to know how the project is going and need to be          able to communicate problems and updates to those higher up like stakeholders.
+
+c) What are the 3 types of meetings that happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings.
+    Sprint Planning Meeting:
+        - Identify work to be completed within that sprint
+        - Assign story points to each task based on their anticipated time commitment and workload
+    Daily Scrum/Standup Meeting:
+        - Meeting that will happen every day (around 10 minutes long)
+        - If there is anything blocking you, this is the time to discuss it with the team and hopefully get feedback.
+    Sprint Retrospective Meeting:
+        - Occurs after the sprint has been completed.
+        - Used to reflect on the sprint and move any incomplete stories to the backlog.
