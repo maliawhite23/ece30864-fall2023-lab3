@@ -3,3 +3,7 @@ git checkout -b MSNA-26-ece-30864-lab-3
 a) In a non-Agile project, who is the equivalent to the Project Owner? Explain the role and the need of the Product Owner in Agile Methodology.
     - In a non-Agile project, the product owner would most likely be  a team/project lead or a manager of some sorts.
     - In an Agile based project, the Project Owner organizes the team with clear direction and communicates with those higher higher up once the release of the project occurs. 
+
+b) Explain the role and responsibilities of the Scrum Master vs the Product Owner.
+    - The Scrum Master handles most of the in-team discussions, setting up meetings, facilitating changes, managing JIRA, daily stand-ups, etc.
+    - The Product Owner on the other hand isn’t as involved with the in-team functions. They are the bridge between the team and those higher up so they need to know how the project is going and need to be          able to communicate problems and updates to those higher up like stakeholders.
